@@ -1,0 +1,21 @@
+{
+  "name": "test-wechat-publicAcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "koa": "^2.12.1",
+    "raw-body": "^2.4.1",
+    "request": "^2.88.2",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.23"
+  }
+}
